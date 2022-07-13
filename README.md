@@ -1,12 +1,12 @@
-🐱‍🏍 typeorm
+🐱‍👓 socket.io
 <br>
 🐱‍👤 jwt
 <br>
 🐱‍🚀 websockets
 <br>
-🐱‍👓 socket.io
-<br>
 ✨ mysql
+<br>
+🐱‍🏍 typeorm
 <br>
 🎁 typescript
 <br>
